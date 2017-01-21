@@ -1,0 +1,8 @@
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\bin\Debug\rename File.exe
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\bin\Debug\rename File.pdb
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\Debug\rename File.csprojResolveAssemblyReference.cache
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\Debug\rename_File.Form1.resources
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\Debug\rename_File.Properties.Resources.resources
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\Debug\rename File.csproj.GenerateResource.Cache
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\Debug\rename File.exe
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\Debug\rename File.pdb

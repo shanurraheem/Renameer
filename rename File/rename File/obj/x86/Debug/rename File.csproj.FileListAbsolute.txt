@@ -1,0 +1,15 @@
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\bin\x86\Debug\rename File.exe
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\bin\x86\Debug\rename File.pdb
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\rename File.csprojResolveAssemblyReference.cache
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\rename_File.Form1.resources
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\rename_File.Properties.Resources.resources
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\rename File.csproj.GenerateResource.Cache
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\rename File.exe
+c:\users\noob\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\rename File.pdb
+C:\Users\NOOB\documents\visual studio 2015\Projects\rename File\rename File\bin\x86\Debug\x64\liblept172.dll
+C:\Users\NOOB\documents\visual studio 2015\Projects\rename File\rename File\bin\x86\Debug\x64\libtesseract304.dll
+C:\Users\NOOB\documents\visual studio 2015\Projects\rename File\rename File\bin\x86\Debug\x86\liblept172.dll
+C:\Users\NOOB\documents\visual studio 2015\Projects\rename File\rename File\bin\x86\Debug\x86\libtesseract304.dll
+C:\Users\NOOB\documents\visual studio 2015\Projects\rename File\rename File\bin\x86\Debug\Interop.MODI.dll
+C:\Users\NOOB\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\Interop.MODI.dll
+C:\Users\NOOB\documents\visual studio 2015\Projects\rename File\rename File\obj\x86\Debug\rename File.csproj.ResolveComReference.cache
